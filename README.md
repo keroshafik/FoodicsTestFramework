@@ -105,3 +105,5 @@ Error Handling: Handles invalid requests, network failures, and assertion failur
 Externalized Test Data: Uses JSON and config.properties for dynamic test execution.
 
 Version Control (Git): Ensures tracking of changes and version history.
+
+**note** : please clear the cart before execution using username and password in the code

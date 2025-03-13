@@ -1,0 +1,20 @@
+{
+  "loginData": [
+    {
+      "email": "01061055528",
+      "password": "test@1234"
+    }
+  ],
+  "addressData": [
+    {
+      "fullName": "Ahmed Hassan",
+      "mobile": "01122334455",
+      "street": "26th of July Street",
+      "building": "10",
+      "city": "Zamalek, Cairo",
+      "district": "Zamalek",
+      "governorate": "Cairo",
+      "landmark": "Near Marriott Hotel"
+    }
+  ]
+}
